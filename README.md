@@ -7,7 +7,7 @@ This repo contains the slides of the talk "An introduction to data science with 
 
 - Site: https://flisol.info/FLISOL2018/Argentina/SanMiguel
 - LUG (local organizer): http://lugtucuman.usla.org.ar/
-- Click [here](FLISoL 2018 Tucumán - Introducción a la ciencia de datos con el lenguaje R.pdf) to get the slides.
+- Click [here](FLISoL 2018 Tucumán - Introducción a la ciencia de datos con el lenguaje R.pdf) to get the slides in PDF format.
 
 
 ## Spanish:
@@ -16,4 +16,4 @@ Este repositorio contiene las diapositivas de la charla "Introducción a la cienc
 
 - Sitio: https://flisol.info/FLISOL2018/Argentina/SanMiguel
 - LUG (Organizador local): http://lugtucuman.usla.org.ar/
-- Click [aquí](FLISoL 2018 Tucumán - Introducción a la ciencia de datos con el lenguaje R.pdf) para acceder a las diapositivas.
+- Click [aquí](FLISoL 2018 Tucumán - Introducción a la ciencia de datos con el lenguaje R.pdf) para acceder a las diapositivas en formato PDF.
